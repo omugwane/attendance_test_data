@@ -1,5 +1,13 @@
+
 {
+  "posts": [
+    {
   "firstName": "Orly",
   "lastName": "Mugwaneza",
   "andrewId": "omugwane"
+}
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
