@@ -1,11 +1,23 @@
 
 {
   "posts": [
+    
+     {
+  "firstName": "Marlyn",
+  "lastName": "Muhoza",
+  "andrewId": "mmuhoza"
+},
+   
     {
+  "firstName": "Souvenir",
+  "lastName": "Niweteto",
+  "andrewId": "sniweteto"
+},
+     {
   "firstName": "Orly",
   "lastName": "Mugwaneza",
   "andrewId": "omugwane"
-}
+     }   
   ],
   "profile": {
     "name": "typicode"
